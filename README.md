@@ -214,7 +214,7 @@ npm run lint
 
 ## License
 
-MIT © CodeHJarborHub
+MIT © CodeHarborHub
 
 ## Support
 

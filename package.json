@@ -37,7 +37,7 @@
     "accessibility",
     "tailwind"
   ],
-  "author": "Your Name",
+  "author": "Ajay Dhangar",
   "license": "MIT",
   "homepage": "https://github.com/codeharborhub/ui-components#readme",
   "repository": {
@@ -93,5 +93,6 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2",
     "vite-plugin-dts": "^3.7.0"
-  }
+  },
+  "publishConfig": { "access": "public" }
 }
